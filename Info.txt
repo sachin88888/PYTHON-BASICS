@@ -1,0 +1,1 @@
+This folder is created in instance to practice Python and Git. This is only a doc for imformation
